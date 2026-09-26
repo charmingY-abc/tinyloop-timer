@@ -1,0 +1,8 @@
+dist/core_test
+dist/app.res.o
+dist/TinyLoop-project.zip
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
